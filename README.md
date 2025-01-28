@@ -49,15 +49,6 @@ This project is a **MATLAB-based portfolio of financial pricers** used to evalua
 
 ---
 
-## 📌 Key Insights
-
-- 🔹 **Black-Scholes-Merton** is efficient for European options but not for American-style options.
-- 🔹 **Binomial trees** allow for early exercise decisions, making them suitable for American options.
-- 🔹 **Monte Carlo methods** provide flexibility but require significant computational resources.
-- 🔹 **Bond pricers** rely on discounting cash flows with appropriate interest rates.
-
----
-
 ## 🚀 Future Improvements
 
 - 🔹 **Incorporate Stochastic Volatility Models** – Enhance realism for options pricing
