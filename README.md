@@ -42,19 +42,27 @@ This project is a **MATLAB-based portfolio of financial pricers** used to evalua
 
 ## 🛠️ How It Works
 
-1️⃣ **Run MATLAB Scripts**: Execute the `.m` files in MATLAB to calculate prices based on user-defined parameters.2️⃣ **Input Financial Data**: Define stock prices, interest rates, volatility, and option parameters.3️⃣ **Compute Prices & Sensitivities**: Get outputs including option prices, implied volatility, and bond valuations.4️⃣ **Adjust Parameters**: Modify input values to see how different variables affect pricing outcomes.
+- 1️⃣ **Run MATLAB Scripts**: Execute the `.m` files in MATLAB to calculate prices based on user-defined parameters.
+- 2️⃣ **Input Financial Data**: Define stock prices, interest rates, volatility, and option parameters.
+- 3️⃣ **Compute Prices & Sensitivities**: Get outputs including option prices, implied volatility, and bond valuations.
+- 4️⃣ **Adjust Parameters**: Modify input values to see how different variables affect pricing outcomes.
 
 ---
 
 ## 📌 Key Insights
 
-🔹 **Black-Scholes-Merton** is efficient for European options but not for American-style options.🔹 **Binomial trees** allow for early exercise decisions, making them suitable for American options.🔹 **Monte Carlo methods** provide flexibility but require significant computational resources.🔹 **Bond pricers** rely on discounting cash flows with appropriate interest rates.
+- 🔹 **Black-Scholes-Merton** is efficient for European options but not for American-style options.
+- 🔹 **Binomial trees** allow for early exercise decisions, making them suitable for American options.
+- 🔹 **Monte Carlo methods** provide flexibility but require significant computational resources.
+- 🔹 **Bond pricers** rely on discounting cash flows with appropriate interest rates.
 
 ---
 
 ## 🚀 Future Improvements
 
-🔹 **Incorporate Stochastic Volatility Models** – Enhance realism for options pricing🔹 **Add Greek Calculations** – Compute Delta, Gamma, Vega, and Theta for risk management🔹 **Optimize Performance** – Improve computational efficiency for large datasets
+- 🔹 **Incorporate Stochastic Volatility Models** – Enhance realism for options pricing
+- 🔹 **Add Greek Calculations** – Compute Delta, Gamma, Vega, and Theta for risk management
+- 🔹 **Optimize Performance** – Improve computational efficiency for large datasets
 
 ---
 
