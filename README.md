@@ -12,7 +12,11 @@ This project is a **MATLAB-based portfolio of financial pricers** used to evalua
 
 ## Features
 
-✅ **Black-Scholes-Merton Model (BSM)** – Pricing vanilla European options & implied volatility calculations✅ **Binomial Pricing Model** – American/European options with discrete-time tree models✅ **Monte Carlo Simulation** – Estimating option prices with randomized paths✅ **Bond Pricing Models** – Valuing coupon bonds using discounting methods✅ **Interest Rate Conversions** – Discrete to continuous compounding transformations
+✅ **Black-Scholes-Merton Model (BSM)** – Pricing vanilla European options & implied volatility calculations
+✅ **Binomial Pricing Model** – American/European options with discrete-time tree models
+✅ **Monte Carlo Simulation** – Estimating option prices with randomized paths
+✅ **Bond Pricing Models** – Valuing coupon bonds using discounting methods
+✅ **Interest Rate Conversions** – Discrete to continuous compounding transformations
 
 ---
 
